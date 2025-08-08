@@ -32,13 +32,51 @@ A full-featured **Social Media App** built using **Flutter & Firebase**, offerin
 
 ## 📸 Screenshots
 
-| Login | Home Feed | Chat |
-|-------|-----------|------|
-| ![](assets/light.png) | ![](assets/dark.png) | ![](assets/screens/chat.png) |
+| Bright Theme | Dark Theme | 
+|-------|-----------|
+| ![](assets/light.png) | ![](assets/dark.png) |
 
-<!-- Replace image paths with your actual screenshot paths -->
+
 
 ---
 
 ## 📦 Folder Structure (Brief)
+
+lib/
+├── auth/
+│   ├── signin.dart
+│   └── signup.dart
+│
+├── features/
+│   ├── splashscreen/
+│   │   └── splashscreen.dart
+│   ├── chat.dart
+│   ├── edit_profile.dart
+│   ├── home.dart
+│   ├── main_screen.dart
+│   ├── message.dart
+│   ├── notification.dart
+│   ├── post.dart
+│   ├── profile.dart
+│   └── search.dart
+│
+├── model/
+│   └── user_model.dart
+│
+├── provider/
+│   └── user_provider.dart
+│
+├── widgets/
+│   ├── custom_widgets.dart
+│   ├── message_bubble.dart
+│   ├── message_item.dart
+│   ├── my_navbar.dart
+│   ├── notification_item.dart
+│   ├── post_item.dart
+│   ├── screen_item.dart
+│   └── story_item.dart
+│
+├── firebase_options.dart
+├── main.dart
+└── theme.dart
 
