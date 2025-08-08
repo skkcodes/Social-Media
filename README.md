@@ -41,6 +41,7 @@ A full-featured **Social Media App** built using **Flutter & Firebase**, offerin
 ---
 
 ## 📦 Folder Structure (Brief)
+```plaintext
 
 lib/
 ├── auth/
