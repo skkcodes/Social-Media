@@ -34,7 +34,7 @@ A full-featured **Social Media App** built using **Flutter & Firebase**, offerin
 
 | Login | Home Feed | Chat |
 |-------|-----------|------|
-| ![](assets/screens/login.png) | ![](assets/screens/home.png) | ![](assets/screens/chat.png) |
+| ![](assets/light.png) | ![](assets/dark.png) | ![](assets/screens/chat.png) |
 
 <!-- Replace image paths with your actual screenshot paths -->
 
